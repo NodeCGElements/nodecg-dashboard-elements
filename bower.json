@@ -1,0 +1,20 @@
+{
+  "name": "nodecg-elements",
+  "homepage": "https://github.com/NodeCGElements/nodecg-dashboard-elements",
+  "authors": [
+    "Alex Van Camp <vancamp.alex@gmail.com>"
+  ],
+  "keywords": [
+    "element-collection"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "nodecg-toast": "NodeCGElements/nodecg-toast",
+    "nodecg-replicant-input": "NodeCGElements/nodecg-replicant-input",
+    "nodecg-position-select": "NodeCGElements/nodecg-position-select",
+    "nodecg-replicant": "NodeCGElements/nodecg-replicant",
+    "nodecg-toggle": "NodeCGElements/nodecg-toggle",
+    "nodecg-typeahead-input": "NodeCGElements/nodecg-typeahead-input"
+  }
+}
